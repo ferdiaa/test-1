@@ -1,0 +1,80 @@
+:root { 
+  --black-pearl: #0a1629;
+  --blue-bell: #9797c8;
+  --blue-bell-2: #97a0c3;
+  --bunting: #0f1b41;
+  --geyser: #d6d8e7;
+  --mirage: #181725;
+  --mountain-mist: #92929d;
+  --pigment-indigo: #440099;
+  --selago: #f2eef8;
+  --white: #ffffff;
+  --wild-sand: #f3f3f5;
+ 
+  --font-size-l: 17px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 22px;
+  --font-size-xxxl: 23px;
+  --font-size-xxxxl: 25px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-normal-blue-bell-14px {
+  color: var(--blue-bell);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-medium-bunting-17px {
+  color: var(--bunting);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-medium-blue-bell-22px {
+  color: var(--blue-bell-2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-normal-mountain-mist-14px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-pigment-indigo-18px {
+  color: var(--pigment-indigo);
+  font-family: var(--font-family-poppins);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-bold-geyser-15px {
+  color: var(--geyser);
+  font-family: var(--font-family-roboto);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}

@@ -1,0 +1,3411 @@
+/* screen - test-1 */
+
+.test-1 {
+  background-color: var(--wild-sand);
+  height: 1410px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 2317px;
+}
+
+.test-1 .rectangle-12095-mmOys7 {
+  background-color: var(--white);
+  height: 96px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 2317px;
+}
+
+.test-1 .burger-mmOys7 {
+  background-color: transparent;
+  height: 16px;
+  left: 35px;
+  position: absolute;
+  top: 40px;
+  width: 31px;
+}
+
+.test-1 .rectangle-12150-WD8its {
+  background-color: var(--mountain-mist);
+  height: 3px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.test-1 .rectangle-12151-WD8its {
+  background-color: var(--mountain-mist);
+  height: 3px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 31px;
+}
+
+.test-1 .group-42-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 2118px;
+  position: absolute;
+  top: 27px;
+  width: 164px;
+}
+
+.test-1 .face-9BK55p {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.test-1 .name-9BK55p {
+  background-color: transparent;
+  height: 21px;
+  left: 61px;
+  position: absolute;
+  top: 10px;
+  width: 55px;
+}
+
+.test-1 .pixelz-warrios-wDljv5 {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 53px;
+}
+
+.test-1 .group-427319915-9BK55p {
+  background-color: transparent;
+  height: 9px;
+  left: 146px;
+  position: absolute;
+  top: 17px;
+  width: 18px;
+}
+
+.test-1 .vector-1-L5kg8J {
+  background-color: transparent;
+  height: 9px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.test-1 .logo-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 54px;
+  left: 145px;
+  position: absolute;
+  top: 21px;
+  width: 324px;
+}
+
+.test-1 .logohighresolution-1-1-1-8rc1dT {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.test-1 .title-8rc1dT {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 52px;
+  left: 84px;
+  letter-spacing: 0.26px;
+  line-height: 51.0px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .span0-ZBlVtP {
+  color: #44444f;
+  font-style: normal;
+  letter-spacing: 0.06px;
+}
+
+.test-1 .span1-ZBlVtP {
+  color: var(--pigment-indigo);
+  font-style: normal;
+  letter-spacing: 0.06px;
+}
+
+.test-1 .group-427320239-mmOys7 {
+  background-color: transparent;
+  height: 47px;
+  left: 350px;
+  position: absolute;
+  top: 629px;
+  width: 231px;
+}
+
+.test-1 .hiring-information-ib2Cjx {
+  background-color: transparent;
+  color: var(--mirage);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 47px;
+  left: 0px;
+  letter-spacing: 0.26px;
+  line-height: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427320216-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 33px;
+  left: 1940px;
+  position: absolute;
+  top: 31px;
+  width: 32px;
+}
+
+.test-1 .ic-notification-ocMu4z {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 32px;
+}
+
+.test-1 .shape-dm9VVK {
+  background-color: transparent;
+  height: 26px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.test-1 .oval-3-dm9VVK {
+  background-color: transparent;
+  height: 4px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 9px;
+}
+
+.test-1 .notification-sign-ocMu4z {
+  background-color: #fc5959;
+  border-radius: 12px;
+  height: 10px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 10px;
+}
+
+.test-1 .group-427320215-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 2011px;
+  position: absolute;
+  top: 37px;
+  width: 73px;
+}
+
+.test-1 .pixelz-warrios-JxSqUm {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.test-1 .pixelz-warrios-MCU9Ef {
+  background-color: transparent;
+  height: 13px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}
+
+.test-1 .line-197-JxSqUm {
+  background-color: transparent;
+  height: 13px;
+  left: 35px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.test-1 .group-427319920-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 1570px;
+  position: absolute;
+  top: 120px;
+  width: 233px;
+}
+
+.test-1 .rectangle-12148-zxjD9b {
+  background-color: #fc5a5a;
+  border-radius: 10px;
+  box-shadow: 0px 32px 45.333335876464844px #5715bb66;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 231px;
+}
+
+.test-1 .evaclose-circle-outline-zxjD9b {
+  background-color: transparent;
+  height: 24px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.test-1 .reject-candidate-zxjD9b {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.test-1 .group-427320253-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 1810px;
+  position: absolute;
+  top: 120px;
+  width: 233px;
+}
+
+.test-1 .rectangle-12148-gP0doX {
+  background-color: #00b987;
+  border-radius: 10px;
+  box-shadow: 0px 32px 45.333335876464844px #5715bb66;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 231px;
+}
+
+.test-1 .bxbx-calendar-gP0doX {
+  background-color: transparent;
+  height: 14px;
+  left: 17px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 14px;
+}
+
+.test-1 .vector-KIhKRc {
+  background-color: transparent;
+  height: 4px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.test-1 .vector-7De9S8 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.test-1 .plan-interview-gP0doX {
+  background-color: transparent;
+  height: 23px;
+  left: 65px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.test-1 .group-427320254-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 2051px;
+  position: absolute;
+  top: 120px;
+  width: 233px;
+}
+
+.test-1 .rectangle-12148-xT5CJB {
+  background-color: var(--pigment-indigo);
+  border-radius: 10px;
+  box-shadow: 0px 32px 45.333335876464844px #5715bb66;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 231px;
+}
+
+.test-1 .akar-iconseye-xT5CJB {
+  background-color: transparent;
+  height: 24px;
+  left: 18px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.test-1 .group-NKxTgB {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  position: relative;
+  top: 5px;
+  width: 19px;
+}
+
+.test-1 .vector-iB3qBk {
+  background-color: transparent;
+  height: 16px;
+  left: -2px;
+  position: absolute;
+  top: -1px;
+  width: 23px;
+}
+
+.test-1 .vector-j07jR8 {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 9px;
+}
+
+.test-1 .hire-candidate-xT5CJB {
+  background-color: transparent;
+  height: 23px;
+  left: 62px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.test-1 .group-427320228-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 1321px;
+  position: absolute;
+  top: 120px;
+  width: 242px;
+}
+
+.test-1 .rectangle-12148-SUytfx {
+  background-color: #ffbc0f;
+  border-radius: 10px;
+  box-shadow: 0px 32px 45.333335876464844px #5715bb66;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 240px;
+}
+
+.test-1 .ant-designcloud-wnload-outlined-SUytfx {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  transform: rotate(180deg);
+  width: 28px;
+}
+
+.test-1 .vector-OXkO02 {
+  background-color: transparent;
+  height: 12px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  transform: rotate(-180deg);
+  width: 8px;
+}
+
+.test-1 .vector-Db0mmw {
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-180deg);
+  width: 26px;
+}
+
+.test-1 .download-resume-SUytfx {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.test-1 .profile-data-mmOys7 {
+  background-color: transparent;
+  display: block;
+  height: 423px;
+  left: 698px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 191px;
+  width: 1587px;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.test-1 .profile-data-mmOys7.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.test-1 .elmcardmain-5ubMCN {
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 6.385987758636475px 61.73121643066406px #c3cbd61b;
+  height: 423px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 1588px;
+}
+
+.test-1 .how-many-free-autore-5ubMCN {
+  background-color: transparent;
+  color: var(--mountain-mist);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 74px;
+  width: 1505px;
+}
+
+.test-1 .summary-5ubMCN {
+  background-color: transparent;
+  color: var(--mirage);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 52px;
+  left: 31px;
+  letter-spacing: 0.26px;
+  line-height: 51.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .elmcardmain-mmOys7 {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 6.385987758636475px 61.73121643066406px #c3cbd61b;
+  height: 317px;
+  left: 350px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 683px;
+  width: 957px;
+}
+
+.test-1 .coreuicardpopular-course1-mmOys7 {
+  background-color: transparent;
+  height: 86px;
+  left: 383px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 705px;
+  width: 427px;
+}
+
+.test-1 .componentpanelcard-small-eK34d1 {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 427px;
+}
+
+.test-1 .group-427320486-4ahvda {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  position: absolute;
+  top: 26px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-6sWz3q {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 44px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 428px;
+}
+
+.test-1 .evan-yates-6sWz3q {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 32.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .oval-4ahvda {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 12px;
+}
+
+.test-1 .angular-js-eK34d1 {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-AVUA5O {
+  background-color: transparent;
+  height: 86px;
+  left: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 705px;
+  width: 427px;
+}
+
+.test-1 .componentpanelcard-small-j5jZIT {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 427px;
+}
+
+.test-1 .group-427320487-akumdz {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  position: absolute;
+  top: 26px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-ny0kGu {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 44px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 428px;
+}
+
+.test-1 .evan-yates-ny0kGu {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 32.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .oval-akumdz {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 11px;
+}
+
+.test-1 .angular-js-j5jZIT {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-jZEVqG {
+  background-color: transparent;
+  height: 86px;
+  left: 383px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 798px;
+  width: 427px;
+}
+
+.test-1 .componentpanelcard-small-qo9pXw {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 427px;
+}
+
+.test-1 .group-427320485-xmriOF {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  position: absolute;
+  top: 27px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-Sa84qC {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 44px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 428px;
+}
+
+.test-1 .x40-40-Sa84qC {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 32.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .oval-xmriOF {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.test-1 .angular-js-qo9pXw {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-jKAL2i {
+  background-color: transparent;
+  height: 86px;
+  left: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 798px;
+  width: 427px;
+}
+
+.test-1 .componentpanelcard-small-QfPGQm {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 427px;
+}
+
+.test-1 .group-427320488-jEJOWr {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-hKXmRe {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 44px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 428px;
+}
+
+.test-1 .yes-2000-2004-hKXmRe {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 32.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .oval-QfPGQm {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-QfPGQm {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-mKrOOx {
+  background-color: transparent;
+  height: 120px;
+  left: 383px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 889px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-jX819l {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 427px;
+}
+
+.test-1 .group-427320484-FTuVZC {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  position: absolute;
+  top: 27px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-B62WML {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 44px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 428px;
+}
+
+.test-1 .public-transport-B62WML {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .oval-FTuVZC {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.test-1 .angular-js-jX819l {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-CCxNnK {
+  background-color: transparent;
+  height: 120px;
+  left: 845px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 889px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-CRKAc1 {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 427px;
+}
+
+.test-1 .group-427320484-Tx0rXt {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  position: absolute;
+  top: 27px;
+  width: 428px;
+}
+
+.test-1 .componentpanelcard-small-HzARI9 {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 44px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 428px;
+}
+
+.test-1 .public-transport-HzARI9 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .oval-Tx0rXt {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.test-1 .angular-js-CRKAc1 {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427320576-mmOys7 {
+  background-color: transparent;
+  height: 315px;
+  left: 1329px;
+  position: absolute;
+  top: 684px;
+  width: 955px;
+}
+
+.test-1 .elmcardmain-AuzkNW {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 6.385987758636475px 61.73121643066406px #c3cbd61b;
+  height: 317px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 957px;
+}
+
+.test-1 .coreuicardpopular-course1-AuzkNW {
+  background-color: transparent;
+  height: 148px;
+  left: 32px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 313px;
+}
+
+.test-1 .group-427320486-WGWLdK {
+  background-color: transparent;
+  height: 112px;
+  left: 1px;
+  position: absolute;
+  top: 35px;
+  width: 313px;
+}
+
+.test-1 .componentpanelcard-small-2neClA {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 114px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 313px;
+}
+
+.test-1 .managment-plann-sales-marketing-2neClA {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-WGWLdK {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-WGWLdK {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-i2TcW2 {
+  background-color: transparent;
+  height: 109px;
+  left: 32px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 177px;
+  width: 313px;
+}
+
+.test-1 .group-427320486-I1h10o {
+  background-color: transparent;
+  height: 73px;
+  left: 1px;
+  position: absolute;
+  top: 35px;
+  width: 313px;
+}
+
+.test-1 .componentpanelcard-small-bKZwH6 {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 75px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 313px;
+}
+
+.test-1 .hbo-managment-it-management-bKZwH6 {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-I1h10o {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-I1h10o {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-QYUFxZ {
+  background-color: transparent;
+  height: 148px;
+  left: 494px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 282px;
+}
+
+.test-1 .group-427320486-MyDsak {
+  background-color: transparent;
+  height: 112px;
+  left: 1px;
+  position: absolute;
+  top: 35px;
+  width: 283px;
+}
+
+.test-1 .componentpanelcard-small-GvbGNA {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 114px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 283px;
+}
+
+.test-1 .python-sql-excel-autocad-GvbGNA {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-MyDsak {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-MyDsak {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-bsrVUY {
+  background-color: transparent;
+  height: 109px;
+  left: 494px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 177px;
+  width: 282px;
+}
+
+.test-1 .group-427320486-qV95PQ {
+  background-color: transparent;
+  height: 73px;
+  left: 1px;
+  position: absolute;
+  top: 35px;
+  width: 283px;
+}
+
+.test-1 .componentpanelcard-small-osoa8p {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 75px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 283px;
+}
+
+.test-1 .communicate-mar-ting-consulting-osoa8p {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 17.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-qV95PQ {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-qV95PQ {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-yyRyA2 {
+  background-color: transparent;
+  height: 148px;
+  left: 356px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 106px;
+}
+
+.test-1 .group-427320487-C7K0bi {
+  background-color: transparent;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 107px;
+}
+
+.test-1 .componentpanelcard-small-EJHcm2 {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 114px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 107px;
+}
+
+.test-1 .x3-4-5-5-EJHcm2 {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-C7K0bi {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-C7K0bi {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-sHM6Ky {
+  background-color: transparent;
+  height: 109px;
+  left: 356px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 177px;
+  width: 106px;
+}
+
+.test-1 .group-427320487-m6AkGZ {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 107px;
+}
+
+.test-1 .componentpanelcard-small-I7VdmG {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 75px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 107px;
+}
+
+.test-1 .yes-no-I7VdmG {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-m6AkGZ {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-m6AkGZ {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-IGxnD8 {
+  background-color: transparent;
+  height: 148px;
+  left: 790px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 144px;
+}
+
+.test-1 .group-427320487-he9cOg {
+  background-color: transparent;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 145px;
+}
+
+.test-1 .componentpanelcard-small-3SFNSI {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 114px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 145px;
+}
+
+.test-1 .professionsl-in-rt-professional-3SFNSI {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 21.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-he9cOg {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-he9cOg {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .coreuicardpopular-course1-Tti4kx {
+  background-color: transparent;
+  height: 109px;
+  left: 790px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 177px;
+  width: 144px;
+}
+
+.test-1 .group-427320487-nIAiDl {
+  background-color: transparent;
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 35px;
+  width: 145px;
+}
+
+.test-1 .componentpanelcard-small-uP1nrv {
+  background-color: var(--wild-sand);
+  border-radius: 5.06px;
+  height: 75px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 145px;
+}
+
+.test-1 .administratie-d-accountmanager-uP1nrv {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: auto;
+}
+
+.test-1 .oval-nIAiDl {
+  background-color: transparent;
+  height: 11px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 11px;
+}
+
+.test-1 .angular-js-nIAiDl {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .frame-3-mmOys7 {
+  background-color: transparent;
+  height: 272px;
+  left: 351px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1050px;
+  width: 1930px;
+}
+
+.test-1 .group-427320227-dmx6aH {
+  background-color: transparent;
+  height: 257px;
+  left: 0px;
+  position: relative;
+  top: 15px;
+  width: 1929px;
+}
+
+.test-1 .shape-RtdRdo {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 259px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 1931px;
+}
+
+.test-1 .rectangle-12157-RtdRdo {
+  background-color: #e7e7f4;
+  border-radius: 22px;
+  height: 235px;
+  left: 1912px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 4px;
+}
+
+.test-1 .rectangle-12158-RtdRdo {
+  background-color: #c0a9de;
+  border-radius: 22px;
+  height: 94px;
+  left: 1912px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 129px;
+  width: 4px;
+}
+
+.test-1 .group-427320243-RtdRdo {
+  background-color: transparent;
+  height: 101px;
+  left: 27px;
+  position: absolute;
+  top: 18px;
+  width: 849px;
+}
+
+.test-1 .how-many-free-autore-3rvDYl {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 845px;
+}
+
+.test-1 .how-to-create-an-inv-3rvDYl {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.test-1 .group-427320245-RtdRdo {
+  background-color: transparent;
+  height: 104px;
+  left: 27px;
+  position: absolute;
+  top: 136px;
+  width: 849px;
+}
+
+.test-1 .how-many-free-autore-1zSOTc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 845px;
+}
+
+.test-1 .how-to-create-an-inv-1zSOTc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.test-1 .group-427320244-RtdRdo {
+  background-color: transparent;
+  height: 77px;
+  left: 952px;
+  position: absolute;
+  top: 18px;
+  width: 914px;
+}
+
+.test-1 .how-many-free-autore-1aMooR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 910px;
+}
+
+.test-1 .how-to-create-an-inv-1aMooR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.test-1 .group-427320246-RtdRdo {
+  background-color: transparent;
+  height: 104px;
+  left: 952px;
+  position: absolute;
+  top: 136px;
+  width: 914px;
+}
+
+.test-1 .how-many-free-autore-7PyYhZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 910px;
+}
+
+.test-1 .how-to-create-an-inv-7PyYhZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.test-1 .work-history-mmOys7 {
+  background-color: transparent;
+  color: var(--mirage);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 47px;
+  left: 350px;
+  letter-spacing: 0.26px;
+  line-height: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1016px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .elmcardmain-AVUA5O {
+  background-color: var(--white);
+  border-radius: 25.54px;
+  box-shadow: 0px 6.385987758636475px 61.73121643066406px #c3cbd61b;
+  height: 422px;
+  left: 346px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 190px;
+  width: 324px;
+}
+
+.test-1 .group-639-mmOys7 {
+  background-color: transparent;
+  height: 45px;
+  left: 370px;
+  position: absolute;
+  top: 475px;
+  width: 121px;
+}
+
+.test-1 .rectangle-178-HA5wCy {
+  background-color: #26c0e2;
+  border-radius: 34.12px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.test-1 .ant-designstar-filled-HA5wCy {
+  background-color: transparent;
+  height: 29px;
+  left: 10px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 8px;
+  width: 29px;
+}
+
+.test-1 .vector-ExYkUs {
+  background-color: transparent;
+  height: 23px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 24px;
+}
+
+.test-1 .x5-HA5wCy {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.test-1 .x4-HA5wCy {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 18.2px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 30px;
+}
+
+.test-1 .group-640-mmOys7 {
+  background-color: transparent;
+  height: 45px;
+  left: 498px;
+  position: absolute;
+  top: 475px;
+  width: 158px;
+}
+
+.test-1 .rectangle-179-KaC53N {
+  background-color: #ffd56b;
+  border-radius: 34.12px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.test-1 .x24-KaC53N {
+  background-color: transparent;
+  color: var(--black-pearl);
+  font-family: var(--font-family-poppins);
+  font-size: 18.2px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 41px;
+}
+
+.test-1 .carbonalarm-add-KaC53N {
+  background-color: transparent;
+  height: 23px;
+  left: 17px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 21px;
+}
+
+.test-1 .vector-ng90N3 {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.test-1 .vector-Yer0Xp {
+  background-color: transparent;
+  height: 6px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+
+.test-1 .vector-Qjx1EJ {
+  background-color: transparent;
+  height: 6px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 6px;
+}
+
+.test-1 .vector-ZMRK1F {
+  background-color: transparent;
+  height: 10px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.test-1 .x80-KaC53N {
+  background-color: transparent;
+  color: #030229;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.test-1 .group-647-mmOys7 {
+  background-color: transparent;
+  height: 50px;
+  left: 369px;
+  position: absolute;
+  top: 535px;
+  width: 285px;
+}
+
+.test-1 .rectangle-182-QwYYVt {
+  background-color: #ff8f6b;
+  border-radius: 43.76px;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 283px;
+}
+
+.test-1 .bxbx-coin-stack-QwYYVt {
+  background-color: transparent;
+  height: 26px;
+  left: 28px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 22px;
+}
+
+.test-1 .vector-QmjwAS {
+  background-color: transparent;
+  height: 25px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.test-1 .x4-hour-QwYYVt {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 104px;
+}
+
+.test-1 .icon-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: 603px;
+  position: absolute;
+  top: 209px;
+  width: 47px;
+}
+
+.test-1 .elmcardgray-5vZUv1 {
+  background-color: #f4f9fd;
+  border-radius: 10.64px;
+  height: 49px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 49px;
+}
+
+.test-1 .icngeneralfilter-5vZUv1 {
+  background-color: transparent;
+  height: 26px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+
+.test-1 .icngeneraledit-LCK8jg {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 26px;
+}
+
+.test-1 .edit-3yjHIt {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+
+.test-1 .elmgeneraldivider-mmOys7 {
+  background-color: #e4e6e8;
+  height: 1px;
+  left: 347px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 452px;
+  width: 322px;
+}
+
+.test-1 .elmgeneralprogress-mmOys7 {
+  background-color: transparent;
+  height: 92px;
+  left: 373px;
+  position: absolute;
+  top: 217px;
+  width: 92px;
+}
+
+.test-1 .bg-HvaqhZ {
+  background-color: transparent;
+  border: 2.5px solid #7d859234;
+  border-radius: 47.11px;
+  height: 94px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 94px;
+}
+
+.test-1 .progress-HvaqhZ {
+  background-color: transparent;
+  height: 95px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 95px;
+}
+
+.test-1 .elmheaderphoto-mmOys7 {
+  background-color: transparent;
+  height: 138px;
+  left: 349px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 138px;
+}
+
+.test-1 .evan-yates-mmOys7 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 371px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 325px;
+  width: auto;
+}
+
+.test-1 .uiux-designer-mmOys7 {
+  background-color: transparent;
+  color: var(--black-pearl);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 372px;
+  letter-spacing: 0.00px;
+  line-height: 26.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427320255-mmOys7 {
+  background-color: transparent;
+  height: 40px;
+  left: 371px;
+  position: absolute;
+  top: 390px;
+  width: 193px;
+}
+
+.test-1 .rectangle-12159-apuIB5 {
+  background-color: #edf2fc;
+  border-radius: 6.57px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 193px;
+}
+
+.test-1 .group-427320251-apuIB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 167px;
+}
+
+.test-1 .icngenerallocation-tAE9Dr {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.test-1 .icngenerallocation-0akvWZ {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 18px;
+}
+
+.test-1 .location-XSYYvt {
+  background-color: transparent;
+  height: 17px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.test-1 .textlabel-tAE9Dr {
+  background-color: transparent;
+  color: #7d8592;
+  font-family: var(--font-family-roboto);
+  font-size: 15.8px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 31.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.test-1 .rectangle-12147-mmOys7 {
+  background-color: var(--white);
+  height: 2397px;
+  left: -3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 96px;
+  width: 311px;
+}
+
+.test-1 .group-4-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: -3px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 220px;
+  width: 303px;
+}
+
+.test-1 .rectangle-12152-CxhBMs {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.test-1 .rectangle-12153-CxhBMs {
+  background-color: #663aac;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.test-1 .group-30-copy-7-CxhBMs {
+  background-color: transparent;
+  height: 51px;
+  left: 26px;
+  position: absolute;
+  top: 7px;
+  width: 51px;
+}
+
+.test-1 .shape-9zwDBX {
+  background-color: transparent;
+  height: 22px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.test-1 .combined-shape-9zwDBX {
+  background-color: transparent;
+  height: 6px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 5px;
+}
+
+.test-1 .file-requests-CxhBMs {
+  background-color: transparent;
+  color: var(--pigment-indigo);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-4-copy-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 32px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 398px;
+  width: 139px;
+}
+
+.test-1 .stock-exchange-app-1-I8UHYR {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .vector-D8UM8n {
+  background-color: transparent;
+  height: 22px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 23px;
+}
+
+.test-1 .trash-I8UHYR {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-4-copy-2-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 30px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 320px;
+  width: 155px;
+}
+
+.test-1 .network-1-1-wQUbvn {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.test-1 .group-xlY77F {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 23px;
+}
+
+.test-1 .group-gE1lFx {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 23px;
+}
+
+.test-1 .vector-bZZprX {
+  background-color: transparent;
+  height: 23px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.test-1 .group-hal8p5 {
+  background-color: transparent;
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.test-1 .group-8ivTnk {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-V0qkhv {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.test-1 .group-6DXum1 {
+  background-color: transparent;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.test-1 .group-sDSZmp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-sHAd7x {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.test-1 .group-IuPwuH {
+  background-color: transparent;
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.test-1 .group-5p1xwk {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-sxL2nk {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 1px;
+}
+
+.test-1 .group-KQ7uCE {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.test-1 .group-H2xJ8h {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-pxJM3x {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.test-1 .group-zutP2d {
+  background-color: transparent;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.test-1 .group-nnSVDI {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-3a6IRS {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.test-1 .group-tvZzeR {
+  background-color: transparent;
+  height: 1px;
+  left: 14px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.test-1 .group-2xfwy2 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-HL1Wmv {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.test-1 .group-qLuFke {
+  background-color: transparent;
+  height: 1px;
+  left: 19px;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.test-1 .group-dZhL0S {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-5F8yc3 {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 2px;
+}
+
+.test-1 .group-2ElqEo {
+  background-color: transparent;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.test-1 .group-cRacmD {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1px;
+}
+
+.test-1 .vector-jPtBRS {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 1px;
+}
+
+.test-1 .starred-wQUbvn {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-3-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 30px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 168px;
+  width: 175px;
+}
+
+.test-1 .shared-files-f3XO5b {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .icondashboardactive-f3XO5b {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.test-1 .layout-q5FZ4k {
+  background-color: transparent;
+  height: 20px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 20px;
+}
+
+.test-1 .rectangle-OyiOld {
+  background-color: transparent;
+  border: 2px solid var(--blue-bell-2);
+  border-radius: 2px;
+  height: 22px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 22px;
+}
+
+.test-1 .path-OyiOld {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 22px;
+}
+
+.test-1 .path-WpgOmq {
+  background-color: transparent;
+  height: 16px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.test-1 .group-427319916-mmOys7 {
+  background-color: transparent;
+  height: 52px;
+  left: 31px;
+  position: absolute;
+  top: 99px;
+  width: 42px;
+}
+
+.test-1 .main-YUqD5g {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  letter-spacing: 0.26px;
+  line-height: 51.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427319916-AVUA5O {
+  background-color: transparent;
+  height: 52px;
+  left: 32px;
+  position: absolute;
+  top: 450px;
+  width: 140px;
+}
+
+.test-1 .communications-6JA1Oz {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  letter-spacing: 0.26px;
+  line-height: 51.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-4-AVUA5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 21px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 509px;
+  width: 173px;
+}
+
+.test-1 .group-14-gO4yjZ {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+.test-1 .rectangle-zI6DML {
+  background-color: transparent;
+  height: 22px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 21px;
+}
+
+.test-1 .path-3-zI6DML {
+  background-color: transparent;
+  height: 6px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.test-1 .path-zI6DML {
+  background-color: transparent;
+  height: 5px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 19px;
+}
+
+.test-1 .file-requests-gO4yjZ {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-4-copy-2-AVUA5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 21px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 583px;
+  width: 145px;
+}
+
+.test-1 .group-10-eEBvZ3 {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+.test-1 .rectangle-IS5RwY {
+  background-color: transparent;
+  height: 21px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 21px;
+}
+
+.test-1 .line-IS5RwY {
+  background-color: transparent;
+  height: 2px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 4px;
+}
+
+.test-1 .line-83UFmg {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.test-1 .starred-eEBvZ3 {
+  background-color: transparent;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427320374-eEBvZ3 {
+  background-color: transparent;
+  height: 22px;
+  left: 105px;
+  position: absolute;
+  top: 1px;
+  width: 22px;
+}
+
+.test-1 .ellipse-310-k0bVGv {
+  background-color: var(--selago);
+  border-radius: 10.89px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .bxbx-lock-k0bVGv {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.test-1 .vector-srUoWs {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.test-1 .group-427319916-jZEVqG {
+  background-color: transparent;
+  height: 52px;
+  left: 31px;
+  position: absolute;
+  top: 648px;
+  width: 109px;
+}
+
+.test-1 .management-NRdokZ {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  letter-spacing: 0.26px;
+  line-height: 51.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-4-jZEVqG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 18px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 705px;
+  width: 191px;
+}
+
+.test-1 .group-30-copy-7-FEFa7D {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.test-1 .shape-c74HlV {
+  background-color: transparent;
+  height: 22px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 25px;
+}
+
+.test-1 .combined-shape-c74HlV {
+  background-color: transparent;
+  height: 7px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 5px;
+}
+
+.test-1 .file-requests-FEFa7D {
+  background-color: transparent;
+  height: auto;
+  left: 56px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427320374-FEFa7D {
+  background-color: transparent;
+  height: 22px;
+  left: 169px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.test-1 .ellipse-310-xaxp57 {
+  background-color: var(--selago);
+  border-radius: 10.89px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .bxbx-lock-xaxp57 {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.test-1 .vector-h4QLG5 {
+  background-color: transparent;
+  height: 10px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.test-1 .group-4-copy-2-jZEVqG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 22px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 779px;
+  width: 145px;
+}
+
+.test-1 .group-30-copy-7-T0nxh6 {
+  background-color: transparent;
+  height: 51px;
+  left: -4px;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.test-1 .shape-cZJYaQ {
+  background-color: transparent;
+  height: 22px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15px;
+  width: 23px;
+}
+
+.test-1 .starred-T0nxh6 {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-4-copy-3-mmOys7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 32px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 857px;
+  width: 194px;
+}
+
+.test-1 .icon-xSlulF {
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.test-1 .path-QxZehn {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 10px;
+  width: 18px;
+}
+
+.test-1 .oval-QxZehn {
+  background-color: transparent;
+  border: 2px solid #c1bebe;
+  border-radius: 4.8px;
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: -1px;
+  width: 10px;
+}
+
+.test-1 .path-jozGSw {
+  background-color: transparent;
+  height: 9px;
+  left: 16px;
+  position: absolute;
+  top: 10px;
+  width: 6px;
+}
+
+.test-1 .path-5nlZzN {
+  background-color: transparent;
+  height: 10px;
+  left: 13px;
+  position: absolute;
+  top: -1px;
+  width: 6px;
+}
+
+.test-1 .starred-xSlulF {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.test-1 .group-427320374-xSlulF {
+  background-color: transparent;
+  height: 22px;
+  left: 172px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .ellipse-310-z1O8k4 {
+  background-color: var(--selago);
+  border-radius: 10.89px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .bxbx-lock-z1O8k4 {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.test-1 .vector-9GrDfa {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+
+.test-1 .group-427320374-mmOys7 {
+  background-color: transparent;
+  height: 22px;
+  left: 167px;
+  position: absolute;
+  top: 783px;
+  width: 22px;
+}
+
+.test-1 .ellipse-310-lvtC6K {
+  background-color: var(--selago);
+  border-radius: 10.89px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .bxbx-lock-lvtC6K {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.test-1 .vector-PktUTu {
+  background-color: transparent;
+  height: 10px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.test-1 .group-427320373-mmOys7 {
+  background-color: transparent;
+  height: 22px;
+  left: 189px;
+  position: absolute;
+  top: 153px;
+  width: 22px;
+}
+
+.test-1 .ellipse-310-kTbH8m {
+  background-color: var(--selago);
+  border-radius: 10.89px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.test-1 .bxbx-lock-kTbH8m {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.test-1 .vector-TT7xwo {
+  background-color: transparent;
+  height: 10px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
